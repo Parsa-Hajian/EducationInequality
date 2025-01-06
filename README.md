@@ -1,4 +1,4 @@
-# Education Inequality
+# Education Inequality (using R)
 An exploratory data analysis(EDA) on education inequality of differenet countries
 Most of the project focuses on data cleaning
 Especially handling missing values
